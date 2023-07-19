@@ -4,4 +4,6 @@ VERY lightweight implementation of 320x200(400) VGA on an Arduino Nano mostly wr
 
 ...featuring a full 256 character set in FLASH memory!
 
-See: https://www.youtube.com/channel/UCXYQcMpUBT3aaQKfmAVJNow
+https://www.youtube.com/watch?v=-ZABNgYb6TQ
+
+https://www.youtube.com/channel/UCXYQcMpUBT3aaQKfmAVJNow
