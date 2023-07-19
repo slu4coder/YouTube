@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name VideoRAM)(type Legacy)(uri ${KIPRJMOD}/VideoRAM.lib)(options "")(descr ""))
+  (lib (name VideoRAM-rescue)(type Legacy)(uri ${KIPRJMOD}/VideoRAM-rescue.lib)(options "")(descr ""))
+  (lib (name alternate)(type Legacy)(uri "C:/Users/slu4/Documents/KiCAD/NanoPC v2/alternate.lib")(options "")(descr ""))
+)
